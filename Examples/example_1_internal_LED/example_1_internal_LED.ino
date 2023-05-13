@@ -1,4 +1,4 @@
-// Example 3: Three LEDs
+// Example 1: Blink the onboard LED
 // Last Updated: 5/13/2023
 // Ryan J. Priore (ryan.priore@gmail.com)
 
