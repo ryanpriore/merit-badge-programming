@@ -1,4 +1,4 @@
-// Example 4: Neopixels
+// Example 3: Three LEDs
 // Last Updated: 5/13/2023
 // Ryan J. Priore (ryan.priore@gmail.com)
 
